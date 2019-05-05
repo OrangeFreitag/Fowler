@@ -1,3 +1,5 @@
+package Fowler;
+
 public class NewReleasePrice extends Price{
     @Override
     public int getPriceCode() {

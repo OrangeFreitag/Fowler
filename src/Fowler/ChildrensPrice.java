@@ -1,3 +1,5 @@
+package Fowler;
+
 public class ChildrensPrice extends Price {
     @Override
     public int getPriceCode() {
