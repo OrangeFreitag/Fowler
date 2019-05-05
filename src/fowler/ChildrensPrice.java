@@ -1,4 +1,4 @@
-package Fowler;
+package fowler;
 
 public class ChildrensPrice extends Price {
     @Override

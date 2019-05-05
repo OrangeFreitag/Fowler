@@ -1,4 +1,4 @@
-package Fowler;
+package fowler;
 
 class Rental {
    private Movie movie;

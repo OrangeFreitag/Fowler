@@ -1,4 +1,4 @@
-package Fowler;
+package fowler;
 
 public class RegularPrice extends Price {
     @Override

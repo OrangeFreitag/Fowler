@@ -1,4 +1,4 @@
-package Fowler;
+package fowler;
 
 import static org.junit.Assert.*;
 

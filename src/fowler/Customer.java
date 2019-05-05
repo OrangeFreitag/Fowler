@@ -1,4 +1,4 @@
-package Fowler;
+package fowler;
 
 import java.util.*;
 
